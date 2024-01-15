@@ -3,11 +3,11 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 💻 I am a cloud enthusiastic. 
-- 📖 Currently I am pursuing B.Tech in Computer Science Engineering from [UPES] (https://www.upes.ac.in/). 
+- 📖 Currently I am pursuing B.Tech in Computer Science Engineering from [UPES](https://www.upes.ac.in/). 
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-- 🔭 I have just started my new journey at [StatusNeo] (https://statusneo.com/) as a Digital Evangelist!
+- 🔭 I have just started my new journey at [StatusNeo](https://statusneo.com/) as a Digital Evangelist!
 - 💬 We can chat about different cuisine, Novels, movies, documentaries or any random fact about you.
 - ⚡ Fun fact: I can sleep for 15 hours straight
 - 🧑‍💻 Tech I work on :
